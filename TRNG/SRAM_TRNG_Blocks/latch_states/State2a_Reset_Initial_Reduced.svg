@@ -12,13 +12,27 @@
    viewBox="0 0 128.63545 76.069328"
    version="1.1"
    id="svg2148"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="State2a_Bias_Initial_Reduced.svg"
-   inkscape:export-filename="/home/nebk/Documents/grad_school/Research/inkscape-figures/SRAM_TRNG_Blocks/latch_states/State2a_Bias_Initial_Reduced.png"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="State2a_Reset_Initial_Reduced.svg"
+   inkscape:export-filename="/home/nebk/Documents/grad_school/Research/inkscape-figures/TRNG/SRAM_TRNG_Blocks/latch_states/State2a_Reset_Initial_Reduced.png"
    inkscape:export-xdpi="300.052"
    inkscape:export-ydpi="300.052">
   <defs
      id="defs2142">
+    <marker
+       style="overflow:visible;"
+       id="marker1327"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1073" />
+    </marker>
     <marker
        style="overflow:visible"
        id="Arrow1Mend"
@@ -82,6 +96,20 @@
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path5315-4-4-5" />
     </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1327-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1073-8" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -90,11 +118,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.61"
-     inkscape:cx="203.05963"
-     inkscape:cy="143.85392"
+     inkscape:zoom="1.305"
+     inkscape:cx="77.570196"
+     inkscape:cy="218.61754"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1916"
@@ -891,6 +919,45 @@
          style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="M 143.51008,149.72261 128.30974,134.52227"
          id="path1445-9-3-3-7-5-2-7-0-7-3-6-8"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g1534">
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.264583"
+         x="122.11159"
+         y="115.9446"
+         id="text3340-1-7-9-0"><tspan
+           sodipodi:role="line"
+           id="tspan3338-8-9-4-3"
+           x="122.11159"
+           y="115.9446"
+           style="font-size:4.23333px;stroke-width:0.264583">Vssx</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1327)"
+         d="m 121.24511,117.78296 c -2.59742,5.24642 -7.01471,6.24987 -12.43627,7.4017"
+         id="path1445-9-3-3-7-5-2-7-0-7-4-1-5"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g1563"
+       transform="translate(0,0.54442298)">
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;stroke-width:0.264583"
+         x="159.08604"
+         y="115.40018"
+         id="text3340-1-7-9-0-9"><tspan
+           sodipodi:role="line"
+           id="tspan3338-8-9-4-3-7"
+           x="159.08604"
+           y="115.40018"
+           style="font-size:4.23333px;stroke-width:0.264583">Vddx</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1327-2)"
+         d="m 159.84709,117.23854 c 2.59742,5.24642 7.01471,6.24987 12.43627,7.4017"
+         id="path1445-9-3-3-7-5-2-7-0-7-4-1-5-3"
          sodipodi:nodetypes="cc" />
     </g>
   </g>
