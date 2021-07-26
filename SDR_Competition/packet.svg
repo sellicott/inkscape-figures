@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="222.53947mm"
+   height="11.850862mm"
+   viewBox="0 0 222.53947 11.850862"
+   version="1.1"
+   id="svg3641"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="packet.svg">
+  <defs
+     id="defs3635" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="404.97669"
+     inkscape:cy="147.30079"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1916"
+     inkscape:window-height="1036"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3638">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-12.28611,-37.707867)">
+    <rect
+       style="opacity:0.994;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4.72441"
+       id="rect4204-2"
+       width="41.640339"
+       height="10.850858"
+       x="96.066788"
+       y="38.207867" />
+    <rect
+       style="opacity:0.994;fill:#ffffff;stroke:#000000;stroke-width:0.999997;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4.72441"
+       id="rect4204-2-2"
+       width="96.618469"
+       height="10.850057"
+       x="137.70712"
+       y="38.208668" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="116.64459"
+       y="45.474525"
+       id="text4248-8"><tspan
+         sodipodi:role="line"
+         x="116.64459"
+         y="45.474525"
+         style="font-size:4.93889px;stroke-width:0.264583"
+         id="tspan4274">Packet Number</tspan></text>
+    <rect
+       style="opacity:0.994;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4.72441"
+       id="rect4204-2-7"
+       width="41.640339"
+       height="10.850858"
+       x="12.78611"
+       y="38.20787" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="33.443497"
+       y="44.995834"
+       id="text4248"><tspan
+         sodipodi:role="line"
+         id="tspan4246"
+         x="33.443497"
+         y="44.995834"
+         style="font-size:4.93889px;stroke-width:0.264583">Sync Header</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="185.99829"
+       y="44.996231"
+       id="text4248-8-3"><tspan
+         sodipodi:role="line"
+         x="185.99829"
+         y="44.996231"
+         style="font-size:4.93889px;stroke-width:0.264583"
+         id="tspan4274-6">Payload</tspan></text>
+    <rect
+       style="opacity:0.994;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4.72441"
+       id="rect4204-2-7-2"
+       width="41.640339"
+       height="10.850858"
+       x="54.426449"
+       y="38.207867" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       x="75.004257"
+       y="45.474525"
+       id="text4248-8-9"><tspan
+         sodipodi:role="line"
+         x="75.004257"
+         y="45.474525"
+         style="font-size:4.93889px;stroke-width:0.264583"
+         id="tspan4274-3">Start Sequence</tspan></text>
+  </g>
+</svg>
