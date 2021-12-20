@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="428.91434mm"
+   width="428.84198mm"
    height="68.092316mm"
-   viewBox="0 0 428.91434 68.092317"
+   viewBox="0 0 428.84198 68.092317"
    version="1.1"
    id="svg12934"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    sodipodi:docname="Total_System_HighLevel_v2.svg"
-   inkscape:export-filename="/home/nebk/Documents/grad_school/Research/inkscape-figures/SDR_Competition/Total_System_HighLevel.png"
+   inkscape:export-filename="C:\Users\ellicott.4\OneDrive - The Ohio State University\Research Presentations\inkscape-figures\SDR_Competition\Total_System_HighLevel_v2.png"
    inkscape:export-xdpi="300.052"
-   inkscape:export-ydpi="300.052">
+   inkscape:export-ydpi="300.052"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs12928">
     <marker
@@ -4799,19 +4799,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="840.91435"
-     inkscape:cy="63.134455"
+     inkscape:zoom="0.7"
+     inkscape:cx="714.28572"
+     inkscape:cy="109.28571"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1-3-0"
+     inkscape:current-layer="g999-2-7-9"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1916"
-     inkscape:window-height="1036"
-     inkscape:window-x="0"
-     inkscape:window-y="20"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:snap-midpoints="true" />
+     inkscape:snap-midpoints="true"
+     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata12931">
     <rdf:RDF>
@@ -4820,7 +4821,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -4828,123 +4829,14 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(221.68578,-135.75227)">
+     transform="translate(221.64134,-114.12051)">
     <g
        inkscape:label="Layer 1"
        id="layer1-3"
        transform="translate(-14.803567,4.9144102)">
       <g
-         id="g999-2"
-         transform="translate(93.351035,68.83396)">
-        <rect
-           style="opacity:0.994;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect851-9"
-           width="36.539028"
-           height="14.499967"
-           x="67.808708"
-           y="72.082726" />
-        <text
-           xml:space="preserve"
-           style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-           x="86.054451"
-           y="78.227867"
-           id="text994-3"><tspan
-             sodipodi:role="line"
-             id="tspan992-1"
-             x="86.054451"
-             y="78.227867"
-             style="stroke-width:0.264583">QPSK</tspan><tspan
-             sodipodi:role="line"
-             x="86.054451"
-             y="83.519531"
-             style="stroke-width:0.264583"
-             id="tspan2324">Demodulation</tspan></text>
-      </g>
-      <g
          id="g999-2-7"
-         transform="translate(35.477877,68.83396)">
-        <rect
-           style="opacity:0.994;fill:none;stroke:#000000;stroke-width:0.500001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect851-9-8"
-           width="44.562107"
-           height="14.499967"
-           x="67.808708"
-           y="72.082726" />
-        <text
-           xml:space="preserve"
-           style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-           x="89.970909"
-           y="80.500595"
-           id="text994-3-4"><tspan
-             sodipodi:role="line"
-             id="tspan992-1-5"
-             x="89.970909"
-             y="80.500595"
-             style="stroke-width:0.264583">Phase Shifting</tspan></text>
-      </g>
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 211.00982,148.16667 H 197.69877"
-         id="path1051" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 161.15974,148.16667 H 147.84869"
-         id="path1051-6" />
-      <text
-         xml:space="preserve"
-         style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-         x="217.36266"
-         y="149.71098"
-         id="text1574"><tspan
-           sodipodi:role="line"
-           id="tspan1572"
-           x="217.36266"
-           y="149.71098"
-           style="stroke-width:0.264583">Data</tspan></text>
-      <g
-         id="g999-2-0"
-         transform="translate(-14.372205,68.83396)">
-        <rect
-           style="opacity:0.994;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect851-9-6"
-           width="36.539028"
-           height="14.499967"
-           x="67.808708"
-           y="72.082726" />
-        <text
-           xml:space="preserve"
-           style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-           x="86.054451"
-           y="80.500595"
-           id="text994-3-3"><tspan
-             sodipodi:role="line"
-             id="tspan992-1-2"
-             x="86.054451"
-             y="80.500595"
-             style="stroke-width:0.264583">RF Frontend</tspan></text>
-      </g>
-      <g
-         id="g4542"
-         transform="matrix(-0.22381704,0,0,0.24195904,145.35953,106.42775)"
-         style="stroke-width:2.14858;stroke-miterlimit:4;stroke-dasharray:none">
-        <path
-           style="fill:none;stroke:#000000;stroke-width:2.14858;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="M 470.179,172.50408 V 123.26407"
-           id="path57746"
-           sodipodi:nodetypes="cc" />
-        <path
-           id="path57748-6"
-           style="fill:none;stroke:#000000;stroke-width:2.14858;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="M 491.48346,101.95959 470.179,123.26407 m -21.30447,-21.30448 21.30447,21.30448" />
-      </g>
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 53.436511,148.16667 H 40.125461"
-         id="path1051-6-6-5" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 103.28658,148.16667 H 89.975531"
-         id="path1051-6-5" />
+         transform="translate(35.477877,68.83396)" />
       <g
          id="g999-2-6"
          transform="translate(93.351044,94.933575)" />
@@ -4967,16 +4859,11 @@
            xml:space="preserve"
            style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
            x="86.054451"
-           y="78.227867"
+           y="80.908836"
            id="text994-3-8"><tspan
              sodipodi:role="line"
-             id="tspan992-1-8"
              x="86.054451"
-             y="78.227867"
-             style="stroke-width:0.264583">QPSK</tspan><tspan
-             sodipodi:role="line"
-             x="86.054451"
-             y="83.519531"
+             y="80.908836"
              style="stroke-width:0.264583"
              id="tspan2265">Modulation</tspan></text>
       </g>
@@ -5000,7 +4887,7 @@
              id="tspan992-1-5-8"
              x="89.970909"
              y="80.500595"
-             style="stroke-width:0.264583">Phase Shifting</tspan></text>
+             style="stroke-width:0.264583">Analog Encryption</tspan></text>
       </g>
       <path
          style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -5074,7 +4961,7 @@
        id="text19955"><tspan
          sodipodi:role="line"
          id="tspan19953"
-         x="-7.2111855"
+         x="-7.2111864"
          y="149.03307"
          style="font-size:7.05556px;stroke-width:0.264583">Encrypted</tspan><tspan
          sodipodi:role="line"
@@ -5085,7 +4972,7 @@
     <g
        inkscape:label="Layer 1"
        id="layer1-3-0"
-       transform="translate(4.3982793,48.177932)">
+       transform="translate(-14.80356,26.546171)">
       <g
          id="g999-2-64"
          transform="translate(35.477873,68.833961)">
@@ -5100,16 +4987,11 @@
            xml:space="preserve"
            style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
            x="86.054451"
-           y="78.227867"
+           y="80.908836"
            id="text994-3-48"><tspan
              sodipodi:role="line"
-             id="tspan992-1-58"
              x="86.054451"
-             y="78.227867"
-             style="stroke-width:0.264583">QPSK</tspan><tspan
-             sodipodi:role="line"
-             x="86.054451"
-             y="83.519531"
+             y="80.908836"
              style="stroke-width:0.264583"
              id="tspan2324-2">Demodulation</tspan></text>
       </g>
@@ -5181,27 +5063,133 @@
          id="g999-2-6-6"
          transform="translate(93.351044,94.933575)" />
     </g>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-       x="113.45925"
-       y="140.78658"
-       id="text33482"><tspan
-         sodipodi:role="line"
-         id="tspan33480"
+    <g
+       id="g13156">
+      <g
+         id="g999-2"
+         transform="translate(78.547459,52.116609)">
+        <rect
+           style="opacity:0.994;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect851-9"
+           width="36.539028"
+           height="14.499967"
+           x="67.808708"
+           y="72.082726" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+           x="86.054451"
+           y="80.908836"
+           id="text994-3"><tspan
+             sodipodi:role="line"
+             x="86.054451"
+             y="80.908836"
+             style="stroke-width:0.264583"
+             id="tspan2324">Demodulation</tspan></text>
+      </g>
+      <rect
+         style="opacity:0.994;fill:none;stroke:#000000;stroke-width:0.500001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect851-9-8"
+         width="44.562107"
+         height="14.499967"
+         x="88.483017"
+         y="124.19933" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="110.64522"
+         y="132.6172"
+         id="text994-3-4"><tspan
+           sodipodi:role="line"
+           id="tspan992-1-5"
+           x="110.64522"
+           y="132.6172"
+           style="stroke-width:0.264583">Analog Decryption</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 196.20625,131.44932 H 182.8952"
+         id="path1051" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 146.35617,131.44932 H 133.04512"
+         id="path1051-6" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="202.55908"
+         y="132.99364"
+         id="text1574"><tspan
+           sodipodi:role="line"
+           id="tspan1572"
+           x="202.55908"
+           y="132.99364"
+           style="stroke-width:0.264583">Data</tspan></text>
+      <g
+         id="g999-2-0"
+         transform="translate(-29.175772,52.116609)">
+        <rect
+           style="opacity:0.994;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect851-9-6"
+           width="36.539028"
+           height="14.499967"
+           x="67.808708"
+           y="72.082726" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+           x="86.054451"
+           y="80.500595"
+           id="text994-3-3"><tspan
+             sodipodi:role="line"
+             id="tspan992-1-2"
+             x="86.054451"
+             y="80.500595"
+             style="stroke-width:0.264583">RF Frontend</tspan></text>
+      </g>
+      <g
+         id="g4542"
+         transform="matrix(-0.22381704,0,0,0.24195904,130.55597,89.710399)"
+         style="stroke-width:2.14858;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2.14858;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 470.179,172.50408 V 123.26407"
+           id="path57746"
+           sodipodi:nodetypes="cc" />
+        <path
+           id="path57748-6"
+           style="fill:none;stroke:#000000;stroke-width:2.14858;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 491.48346,101.95959 470.179,123.26407 m -21.30447,-21.30448 21.30447,21.30448" />
+      </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 38.632945,131.44932 H 25.321895"
+         id="path1051-6-6-5" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 88.483014,131.44932 H 75.171965"
+         id="path1051-6-5" />
+      <text
+         xml:space="preserve"
+         style="font-size:6.35px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
          x="113.45925"
-         y="140.78658"
-         style="stroke-width:0.264583">Intended Receiver</tspan></text>
+         y="119.15482"
+         id="text33482"><tspan
+           sodipodi:role="line"
+           id="tspan33480"
+           x="113.45925"
+           y="119.15482"
+           style="stroke-width:0.264583">Intended Receiver</tspan></text>
+    </g>
     <text
        xml:space="preserve"
        style="font-size:6.35px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
        x="113.45925"
-       y="183.55539"
+       y="161.92363"
        id="text33482-4"><tspan
          sodipodi:role="line"
          id="tspan33480-5"
          x="113.45925"
-         y="183.55539"
+         y="161.92363"
          style="stroke-width:0.264583">Eavesdropping Receiver</tspan></text>
   </g>
 </svg>

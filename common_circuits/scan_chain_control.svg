@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="45.646149mm"
+   height="58.81781mm"
+   viewBox="0 0 45.646149 58.81781"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="scan_chain_control.svg"
+   inkscape:export-filename="C:\Users\ellicott.4\OneDrive - The Ohio State University\Research Presentations\inkscape-figures\common_circuits\Scan_Chain\scan_chain_control.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="219.91021"
+     inkscape:cy="176.06959"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-61.577861,-133.13832)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 63.764923,169.80255 2.183825,-2.09983 -2.183825,-2.26781"
+       id="path21805"
+       sodipodi:nodetypes="ccc" />
+    <g
+       id="g53892">
+      <g
+         id="g53867">
+        <g
+           id="g20956-0-4"
+           transform="rotate(-90,125.31721,198.12482)">
+          <text
+             xml:space="preserve"
+             style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+             x="142.44836"
+             y="163.26505"
+             id="text5074-1-8-2-2-9-5"><tspan
+               sodipodi:role="line"
+               id="tspan5072-0-4-1-6-0-1"
+               x="142.44836"
+               y="163.26505"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583">R / W</tspan></text>
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 144.02601,159.07657 h 4.57321"
+             id="path20655-8-0" />
+        </g>
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+           d="m 89.835355,187.63238 c 0,0 -0.7528,0.40452 -1.1456,0.40509 -0.39654,5.6e-4 -1.14562,-0.40509 -1.14562,-0.40509 0.55688,0.80252 0.87756,1.55391 1.14562,2.43281 0.26806,-0.87994 0.58872,-1.63029 1.1456,-2.43281 z"
+           id="path23543-9"
+           sodipodi:nodetypes="csccc" />
+      </g>
+      <g
+         id="g53872">
+        <text
+           xml:space="preserve"
+           style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+           x="-182.21959"
+           y="97.876213"
+           id="text5074-1-8-7-4-7-3-8"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan5072-0-4-2-5-4-4-1"
+             x="-182.21959"
+             y="97.876213"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583">CLK</tspan></text>
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+           d="m 97.254135,187.63238 c 0,0 -0.7528,0.40452 -1.1456,0.40509 -0.39654,5.6e-4 -1.14562,-0.40509 -1.14562,-0.40509 0.55688,0.80252 0.87756,1.55391 1.14562,2.43281 0.26806,-0.87994 0.58872,-1.63029 1.1456,-2.43281 z"
+           id="path23543-9-7"
+           sodipodi:nodetypes="csccc" />
+      </g>
+      <g
+         id="g53855">
+        <text
+           xml:space="preserve"
+           style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+           x="-180.83293"
+           y="74.506844"
+           id="text5074-1-8-8-7-0-8-1-1"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan5072-0-4-3-3-3-8-3-4"
+             x="-180.83293"
+             y="74.506844"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583">MISO</tspan></text>
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+           d="m 73.883565,190.06518 c 0,0 -0.7528,-0.40452 -1.1456,-0.40509 -0.39654,-5.6e-4 -1.14562,0.40509 -1.14562,0.40509 0.55688,-0.80252 0.87756,-1.55391 1.14562,-2.43281 0.26806,0.87994 0.58872,1.63029 1.1456,2.43281 z"
+           id="path23543-6-5"
+           sodipodi:nodetypes="csccc" />
+      </g>
+      <g
+         id="g53860">
+        <text
+           xml:space="preserve"
+           style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+           x="-180.83293"
+           y="82.297035"
+           id="text5074-1-8-8-4-2-6-9"
+           transform="rotate(-90)"><tspan
+             sodipodi:role="line"
+             id="tspan5072-0-4-3-4-9-4-5"
+             x="-180.83293"
+             y="82.297035"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583">MOSI</tspan></text>
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+           d="m 81.673745,187.63238 c 0,0 -0.7528,0.40452 -1.1456,0.40509 -0.39654,5.6e-4 -1.14562,-0.40509 -1.14562,-0.40509 0.55688,0.80252 0.87756,1.55391 1.14562,2.43281 0.26806,-0.87994 0.58872,-1.63029 1.1456,-2.43281 z"
+           id="path23543-4-5"
+           sodipodi:nodetypes="csccc" />
+      </g>
+    </g>
+    <g
+       id="g65900">
+      <rect
+         style="fill:none;fill-opacity:0.429395;stroke:#000000;stroke-width:0.51568;stroke-linecap:round;stroke-linejoin:round"
+         id="rect1207"
+         width="41.159912"
+         height="52.529556"
+         x="63.842682"
+         y="139.16873" />
+      <g
+         id="g65759">
+        <text
+           xml:space="preserve"
+           style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+           x="72.721031"
+           y="169.57054"
+           id="text5074-1-8-7-4-7-3"><tspan
+             sodipodi:role="line"
+             id="tspan5072-0-4-2-5-4-4"
+             x="72.721031"
+             y="169.57054"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583">CLK</tspan></text>
+        <g
+           id="g65733">
+          <g
+             id="g20956-0"
+             transform="translate(-68.501405,-1.1132896)">
+            <text
+               xml:space="preserve"
+               style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+               x="142.44836"
+               y="163.26505"
+               id="text5074-1-8-2-2-9"><tspan
+                 sodipodi:role="line"
+                 id="tspan5072-0-4-1-6-0"
+                 x="142.44836"
+                 y="163.26505"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583">R / W</tspan></text>
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 144.02601,159.07657 h 4.57321"
+               id="path20655-8" />
+          </g>
+          <path
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+             d="m 64.546276,161.52969 c 0,0 0.404528,-0.7528 0.40509,-1.1456 5.68e-4,-0.39654 -0.40509,-1.14562 -0.40509,-1.14562 0.80252,0.55688 1.553912,0.87756 2.432816,1.14562 -0.879938,0.26806 -1.630296,0.58872 -2.432816,1.1456 z"
+             id="path23543"
+             sodipodi:nodetypes="csccc" />
+        </g>
+        <g
+           id="g65721">
+          <text
+             xml:space="preserve"
+             style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+             x="74.107689"
+             y="146.20117"
+             id="text5074-1-8-8-7-0-8-1"><tspan
+               sodipodi:role="line"
+               id="tspan5072-0-4-3-3-3-8-3"
+               x="74.107689"
+               y="146.20117"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583">MISO</tspan></text>
+          <path
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+             d="m 67.179084,145.5779 c 0,0 -0.404528,-0.7528 -0.40509,-1.1456 -5.68e-4,-0.39654 0.40509,-1.14562 0.40509,-1.14562 -0.80252,0.55688 -1.553912,0.87756 -2.432816,1.14562 0.879938,0.26806 1.630296,0.58872 2.432816,1.1456 z"
+             id="path23543-6"
+             sodipodi:nodetypes="csccc" />
+        </g>
+        <g
+           id="g65726">
+          <text
+             xml:space="preserve"
+             style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+             x="74.107689"
+             y="153.99136"
+             id="text5074-1-8-8-4-2-6"><tspan
+               sodipodi:role="line"
+               id="tspan5072-0-4-3-4-9-4"
+               x="74.107689"
+               y="153.99136"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583">MOSI</tspan></text>
+          <path
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+             d="m 64.646277,153.36808 c 0,0 0.404528,-0.7528 0.40509,-1.1456 5.68e-4,-0.39654 -0.40509,-1.14562 -0.40509,-1.14562 0.80252,0.55688 1.553912,0.87756 2.432814,1.14562 -0.879936,0.26806 -1.630294,0.58872 -2.432814,1.1456 z"
+             id="path23543-4"
+             sodipodi:nodetypes="csccc" />
+        </g>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="84.311707"
+         y="136.73396"
+         id="text5074-1-8-8-7-0-8-1-7"><tspan
+           sodipodi:role="line"
+           x="84.997795"
+           y="136.73396"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.264583"
+           id="tspan56966">Scan Chain Control </tspan></text>
+    </g>
+  </g>
+</svg>

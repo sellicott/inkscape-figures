@@ -1,0 +1,98 @@
+%% Creator: Inkscape 1.1 (c68e22c387, 2021-05-23), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'Analog_Encryption_Systeml.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{1189.49770469bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.30482993)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{Analog_Encryption_Systeml.pdf}}%
+    \put(0.49531683,0.1203975){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{Analog}\\\textbf{Encrypted}\\\textbf{Data}\end{tabular}}}}%
+    \put(0.49674371,0.03028923){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{Analog}\\\textbf{Key}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{Analog_Encryption_Systeml.pdf}}%
+    \put(0.1214737,0.11679933){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\\\textbf{Modulation}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{Analog_Encryption_Systeml.pdf}}%
+    \put(0.24899721,0.03652564){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\\\textbf{Modulation}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{Analog_Encryption_Systeml.pdf}}%
+    \put(0.24896887,0.10945212){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{Analog}\\\textbf{Encryption}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{Analog_Encryption_Systeml.pdf}}%
+    \put(0.02575063,0.09877885){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{Data}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{Analog_Encryption_Systeml.pdf}}%
+    \put(0.35545813,0.09866802){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{RFFE}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{Analog_Encryption_Systeml.pdf}}%
+    \put(0.35545816,0.01839434){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{RFFE}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{Analog_Encryption_Systeml.pdf}}%
+    \put(0.03009486,0.01838696){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{TRNG}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{Analog_Encryption_Systeml.pdf}}%
+    \put(0.13585557,0.01838696){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{AES}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{Analog_Encryption_Systeml.pdf}}%
+    \put(0.87742495,0.11679933){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\\\textbf{Demodulation}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{Analog_Encryption_Systeml.pdf}}%
+    \put(0.74996795,0.03652564){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\\\textbf{Demodulation}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{Analog_Encryption_Systeml.pdf}}%
+    \put(0.74167549,0.10945212){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{Analog}\\\textbf{Decryption}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{Analog_Encryption_Systeml.pdf}}%
+    \put(0.98135416,0.09877887){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{Data}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=14]{Analog_Encryption_Systeml.pdf}}%
+    \put(0.63472073,0.09866802){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{RFFE}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=15]{Analog_Encryption_Systeml.pdf}}%
+    \put(0.63472071,0.01839434){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{RFFE}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=16]{Analog_Encryption_Systeml.pdf}}%
+    \put(0.87238713,0.01838696){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{AES}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=17]{Analog_Encryption_Systeml.pdf}}%
+    \put(0.50320366,0.24308722){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}I\end{tabular}}}}%
+    \put(0.46310218,0.27675084){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Q\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=18]{Analog_Encryption_Systeml.pdf}}%
+    \put(0.62157262,0.24308722){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}I\end{tabular}}}}%
+    \put(0.58147114,0.27675084){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Q\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=19]{Analog_Encryption_Systeml.pdf}}%
+    \put(0.31603746,0.27346376){\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{RF Signal}\\\textbf{Distortions}\end{tabular}}}}%
+  \end{picture}%
+\endgroup%

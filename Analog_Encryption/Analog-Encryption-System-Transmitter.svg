@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="615.65833mm"
-   height="176.61447mm"
-   viewBox="0 0 615.65833 176.61447"
+   width="265.15652mm"
+   height="147.04884mm"
+   viewBox="0 0 265.15653 147.04884"
    version="1.1"
    id="svg22819"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
-   sodipodi:docname="Analog-Encryption-System-Diagram.svg"
-   inkscape:export-filename="/home/nebk/Documents/grad_school/Research/inkscape-figures/cryptography/Analog-Encryption-System-Diagram.png"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Analog-Encryption-System-Transmitter.svg"
+   inkscape:export-filename="C:\Users\ellicott.4\OneDrive - The Ohio State University\Research Presentations\inkscape-figures\Analog_Encryption\Analog-Encryption-System-Transmitter.png"
    inkscape:export-xdpi="300.052"
-   inkscape:export-ydpi="300.052">
+   inkscape:export-ydpi="300.052"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs22813">
     <marker
@@ -32,21 +32,6 @@
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path26491" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker24767"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Mend"
-       inkscape:isstock="true"
-       inkscape:collect="always">
-      <path
-         transform="matrix(-0.4,0,0,-0.4,-4,0)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         id="path24765" />
     </marker>
     <marker
        style="overflow:visible"
@@ -233,21 +218,6 @@
     </marker>
     <marker
        style="overflow:visible"
-       id="Arrow1Mend-6-8"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow1Mend"
-       inkscape:isstock="true"
-       inkscape:collect="always">
-      <path
-         transform="matrix(-0.4,0,0,-0.4,-4,0)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         id="path10414-2-5" />
-    </marker>
-    <marker
-       style="overflow:visible"
        id="Arrow1Mend-3"
        refX="0"
        refY="0"
@@ -282,21 +252,22 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497474"
-     inkscape:cx="1115.6222"
-     inkscape:cy="543.96654"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="831.35554"
+     inkscape:cy="394.96965"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:snap-midpoints="true"
      inkscape:snap-intersection-paths="false"
-     inkscape:window-width="1916"
-     inkscape:window-height="1036"
-     inkscape:window-x="0"
-     inkscape:window-y="20"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:object-paths="false" />
+     inkscape:object-paths="false"
+     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata22816">
     <rdf:RDF>
@@ -305,7 +276,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -313,16 +283,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(85.632959,-77.534559)">
-    <rect
-       style="opacity:0.994;fill:#f2f2f2;fill-opacity:1;stroke:#494949;stroke-width:0.750003;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3.15;stroke-opacity:1"
-       id="rect64271-3"
-       width="175.86447"
-       height="296.01199"
-       x="-253.77403"
-       y="-85.257957"
-       transform="rotate(-90)"
-       rx="3.4438798" />
+     transform="translate(69.827553,-91.220133)">
     <rect
        style="opacity:0.994;fill:#cfcfcf;fill-opacity:0.996078;stroke:#000000;stroke-width:0.999998;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3.15;stroke-opacity:1"
        id="rect64271-9-0-3-4"
@@ -465,213 +426,25 @@
        id="path23889-7" />
     <text
        xml:space="preserve"
-       style="font-size:11.2889px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+       style="font-size:12.7px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
        x="-41.250996"
        y="238.07674"
        id="text11136-0-7"><tspan
          sodipodi:role="line"
          x="-41.250996"
          y="238.07674"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
          id="tspan11142-19-4">Data</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16.9333px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-       x="-63.25106"
-       y="100.8917"
-       id="text11531-3-4"><tspan
-         sodipodi:role="line"
-         id="tspan11529-2-7"
-         x="-63.25106"
-         y="100.8917"
-         style="font-size:16.9333px;stroke-width:0.264583">Tx</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker24767)"
-       d="m 210.75403,165.8418 h 55.79113"
-       id="path23889-0-1-7-1-5" />
     <text
        xml:space="preserve"
        style="font-size:12.7px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
        x="50.719124"
        y="213.49274"
        id="text24849"><tspan
-         sodipodi:role="line"
-         id="tspan24847"
          x="50.719124"
          y="213.49274"
-         style="stroke-width:0.264583">Analog Encryption</tspan><tspan
-         sodipodi:role="line"
-         x="50.719124"
-         y="229.36774"
          style="stroke-width:0.264583"
-         id="tspan1219">Key</tspan></text>
-    <rect
-       style="opacity:0.994;fill:#f2f2f2;fill-opacity:1;stroke:#494949;stroke-width:0.750004;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3.15;stroke-opacity:1"
-       id="rect64271-3-6"
-       width="175.86447"
-       height="260.45941"
-       x="-253.77403"
-       y="-529.65039"
-       transform="matrix(0,-1,-1,0,0,0)"
-       rx="3.4438798" />
-    <rect
-       style="opacity:0.994;fill:#cfcfcf;fill-opacity:0.996078;stroke:#000000;stroke-width:0.999998;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3.15;stroke-opacity:1"
-       id="rect64271-9-0-3-4-0"
-       width="31.505255"
-       height="42.556503"
-       x="-174.34074"
-       y="296.83685"
-       transform="rotate(-90)" />
-    <g
-       id="g24199-7"
-       transform="translate(269.78197,-2.6458386)">
-      <rect
-         style="opacity:0.994;fill:#cfcfcf;fill-opacity:0.996078;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3.15;stroke-opacity:1"
-         id="rect64271-9-01"
-         width="24.591093"
-         height="55.193996"
-         x="-118.95706"
-         y="20.736414"
-         transform="rotate(-90)" />
-      <text
-         xml:space="preserve"
-         style="font-size:11.2889px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-         x="47.779442"
-         y="110.87005"
-         id="text11136-01"><tspan
-           sodipodi:role="line"
-           x="47.779442"
-           y="110.87005"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-           id="tspan11142-3">Header</tspan></text>
-      <rect
-         style="opacity:0.994;fill:#d7e3bf;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3.15;stroke-opacity:1"
-         id="rect64271-9-0-7"
-         width="24.591095"
-         height="118.89857"
-         x="-118.95706"
-         y="75.930405"
-         transform="rotate(-90)" />
-      <text
-         xml:space="preserve"
-         style="font-size:11.2889px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-         x="135.33836"
-         y="109.77589"
-         id="text11136-8-7"><tspan
-           sodipodi:role="line"
-           x="135.33836"
-           y="109.77589"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-           id="tspan11142-1-2">Payload</tspan></text>
-    </g>
-    <g
-       id="g23843-6"
-       transform="translate(279.38014,2.2044884)">
-      <text
-         xml:space="preserve"
-         style="font-size:11.2889px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-         x="39.005337"
-         y="160.49294"
-         id="text11136-82-4"><tspan
-           sodipodi:role="line"
-           x="39.005337"
-           y="160.49294"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-           id="tspan11142-5-5">AES</tspan></text>
-    </g>
-    <g
-       id="g24143-2"
-       transform="translate(276.47462)">
-      <rect
-         style="opacity:0.994;fill:#b7dde8;fill-opacity:1;stroke:#000000;stroke-width:0.999996;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3.15;stroke-opacity:1"
-         id="rect64271-9-0-3-0"
-         width="31.505255"
-         height="80.880646"
-         x="-174.34074"
-         y="88.246719"
-         transform="rotate(-90)" />
-      <text
-         xml:space="preserve"
-         style="font-size:11.2889px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-         x="128.61263"
-         y="154.66547"
-         id="text23836-2"><tspan
-           sodipodi:role="line"
-           id="tspan23834-9"
-           x="128.61263"
-           y="154.66547"
-           style="stroke-width:0.264583">Analog</tspan><tspan
-           sodipodi:role="line"
-           x="128.61263"
-           y="168.7766"
-           style="stroke-width:0.264583"
-           id="tspan23838-0">Decryption</tspan></text>
-    </g>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-6-2-6)"
-       d="m 405.16166,116.00104 v 23.95603"
-       id="path23889-0-1-7-3" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-6-2-3-6)"
-       d="m 318.11538,115.92344 v 23.95603"
-       id="path23889-0-1-7-1-7" />
-    <text
-       xml:space="preserve"
-       style="font-size:11.2889px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-       x="489.22644"
-       y="205.11693"
-       id="text11136-0-7-6"><tspan
-         sodipodi:role="line"
-         x="489.22644"
-         y="205.11693"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         id="tspan11142-19-4-0">Data</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16.9333px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-       x="504.51733"
-       y="100.89169"
-       id="text11531-3-4-4"><tspan
-         sodipodi:role="line"
-         id="tspan11529-2-7-6"
-         x="504.51733"
-         y="100.89169"
-         style="font-size:16.9333px;stroke-width:0.264583">Rx</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 318.1151,200.55466 h 67.98798"
-       id="path23889-8" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 318.11511,174.03057 v 26.38014"
-       id="path23889-0-3" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-6-8)"
-       d="M 386.10309,200.55466 V 177.15871"
-       id="path23889-0-1-79" />
-    <text
-       xml:space="preserve"
-       style="font-size:12.7px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-       x="350.23071"
-       y="215.6617"
-       id="text24849-3"><tspan
-         sodipodi:role="line"
-         id="tspan24847-7"
-         x="350.23071"
-         y="215.6617"
-         style="stroke-width:0.264583">Analog Encryption</tspan><tspan
-         sodipodi:role="line"
-         x="350.23071"
-         y="231.5367"
-         style="stroke-width:0.264583"
-         id="tspan1221">Key</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 425.83646,201.08203 V 174.40466"
-       id="path23889-0-1-6-1" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker26493)"
-       d="m 426.24781,201.08203 h 42.36722"
-       id="path23889-7-9" />
+         id="tspan1219"
+         sodipodi:role="line">Analog Key</tspan></text>
   </g>
 </svg>
